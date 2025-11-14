@@ -1,0 +1,3 @@
+[submodule "ms-auth"]
+	path = ms-auth
+	url = git@github.com:proferickmuller/meuprojeto-ms-auth.git
